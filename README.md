@@ -1,5 +1,5 @@
 # Algorithm-and-Data-Structure
-Collection of Exercise and Notes 
+Collection of Exercises and Notes 
 
 
 Source: Udemy course
